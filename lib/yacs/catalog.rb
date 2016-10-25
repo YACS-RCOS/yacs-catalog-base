@@ -1,7 +1,3 @@
 require "yacs/catalog/version"
-
-module Yacs
-  module Catalog
-    # Your code goes here...
-  end
-end
+require "yacs/catalog/updater"
+require "yacs/catalog/adapter"

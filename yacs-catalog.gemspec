@@ -6,8 +6,8 @@ require 'yacs/catalog/version'
 Gem::Specification.new do |spec|
   spec.name          = "yacs-catalog"
   spec.version       = Yacs::Catalog::VERSION
-  spec.authors       = ["Richie"]
-  spec.email         = ["richiejoeyoung@gmail.com"]
+  spec.authors       = ["TODO: your name here"]
+  spec.email         = ["TODO: your email here"]
 
   spec.summary       = %q{TODO: Write a short summary, because Rubygems requires one.}
   spec.description   = %q{TODO: Write a longer description or delete this line.}
